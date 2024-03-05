@@ -1,0 +1,25 @@
+{
+    "name":"",
+    "address":"",
+    "hobbies":["","",""],
+    "is_maried":"",
+    "school":{
+              "highSchool":"",
+              "university":" "
+             },
+      "skills":[
+                 {
+                     "id":1,
+                     "Skil":""
+                 },
+                 {
+                     "VCS":2,
+                     "skill":""
+                 },
+                 {
+                     "id":3,
+                     "skill":""
+                 }
+             ]
+           
+   }
