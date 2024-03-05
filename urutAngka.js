@@ -6,7 +6,7 @@ const sorting=number.sort(urutnumber);
 console.log(sorting);//ASC
 /*cara cepat
 number.sort((a,b)=>a-b);//ASC
-console.log(anumber);
+console.log(number);
 */
 
 //atau
