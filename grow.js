@@ -6,3 +6,6 @@ function grow(x){
     return result;
 }
 console.log(grow([2,2]));
+
+const multi = (x) => x.reduce((acc,curr)=>acc*curr,1);
+console.log(multi([2,2,2]));
