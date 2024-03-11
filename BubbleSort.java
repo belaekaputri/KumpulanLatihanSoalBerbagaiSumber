@@ -8,9 +8,10 @@ public class BubbleSort {
         System.out.println("SEBELUM");
         System.out.println("=======");
         for(int bil : bilangan){
-            System.out.print(bil+", ");
+            System.out.print(bil+",");
+           
         }
- 
+        System.out.println("\n");
         for(int i=0;i<bilangan.length;i++){
             for(int j=0; j<bilangan.length-1;j++){
                 //bila nilai saat ini lebih besar dari pada nilai selanjutnya
