@@ -75,6 +75,8 @@
     if( !empty($user) and !empty($em)  and !empty($nohp) and $dt )
     {
         echo "<script>alert('Welcome')</script>";
+    }else{
+      die"data tidak boleh kosong";
     }
 }
 ?>
